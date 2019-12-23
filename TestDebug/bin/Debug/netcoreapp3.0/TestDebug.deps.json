@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TestDebug/1.0.0": {
+        "dependencies": {
+          "Source": "1.0.0"
+        },
+        "runtime": {
+          "TestDebug.dll": {}
+        }
+      },
+      "Source/1.0.0": {
+        "runtime": {
+          "Source.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestDebug/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Source/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
